@@ -1,1 +1,1 @@
-# simple-linear-regression-salary-prediction-gaggle
+Salary prediction using simple linear regression. Got the dataset from Kaggle.
