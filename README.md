@@ -1,0 +1,1 @@
+# simple-linear-regression-salary-prediction-gaggle
